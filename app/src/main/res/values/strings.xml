@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCMSender</string>
+    <string name="sendMessage">Send message</string>
+    <string name="result">Result:</string>
+    <string name="enterMessageHere">Enter message here:</string>
+    <string name="errorMessage">Unable to send GCM message.\n%1$s</string>
+    <string name="errorApiKey">Please ensure that API_KEY in Const class has been replaced by the server API key</string>
+    <string name="enterMessage">Please enter a message</string>
+    <string name="messageId">MessageId:\n%1$d</string>
+</resources>
